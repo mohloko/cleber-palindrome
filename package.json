@@ -1,0 +1,23 @@
+{
+  "name": "cleber-palindrome",
+  "version": "0.1.0",
+  "description": "Palindrome tester",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mohloko/cleber-palindrome.git"
+  },
+  "keywords": [
+    "palindrome",
+    "tutorial"
+  ],
+  "author": "cleber",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mohloko/cleber-palindrome/issues"
+  },
+  "homepage": "https://github.com/mohloko/cleber-palindrome#readme"
+}
